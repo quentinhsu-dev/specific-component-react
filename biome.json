@@ -8,6 +8,7 @@
     "clientKind": "git",
     "useIgnoreFile": true
   },
+  "files": { "ignoreUnknown": false, "ignore": ["./src/routeTree.gen.ts"] },
   "formatter": {
     "indentStyle": "space"
   },
